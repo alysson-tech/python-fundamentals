@@ -48,11 +48,12 @@ Bem-vindo! Este repositório é dedicado ao estudo e à prática dos fundamentos
 
 ```plaintext
 python-fundamentals/
-├── basics/
-├── control_flow/
+├── syntax_basics/
+├── control_flow_statements/
 ├── functions/
 ├── data_structures/
-├── files_exceptions/
+├── files_handling/
+├── exceptions_handling/
 ├── oop_intro/
 ├── exercises/
 ├── projects/
