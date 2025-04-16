@@ -54,7 +54,7 @@ python-fundamentals/
 ├── data_structures/
 ├── files_handling/
 ├── exceptions_handling/
-├── oop_intro/
+├── object_oriented_programming/
 ├── exercises/
 ├── projects/
 └── README.md
