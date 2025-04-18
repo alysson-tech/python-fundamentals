@@ -1,5 +1,6 @@
 # 01 — Basic Operations
 
+---
 🇺🇸 **English**
 
 Exercises on arithmetic operations, means, and simple list handling. Practice with input/output and fundamental Python structures.
