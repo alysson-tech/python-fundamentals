@@ -34,10 +34,6 @@ Esta pasta reúne todos os conjuntos de exercícios do curso Fundamentos de Pyth
     python nome_do_script.py
     ```
 
----
-
-## 📩 Contact / Contato
-[alyssonbrunooliveirasantos@gmail.com](mailto:alyssonbrunooliveirasantos@gmail.com)
 
 ---
 
